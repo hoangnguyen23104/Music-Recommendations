@@ -1,0 +1,8 @@
+﻿# Chặn các file dữ liệu lớn
+*.csv
+*.h5
+*.pkl
+
+# Chặn các file rác của Python
+__pycache__/
+.ipynb_checkpoints/
